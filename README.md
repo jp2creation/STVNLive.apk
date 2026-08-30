@@ -7,7 +7,9 @@ code lives in the private `jp2creation/STVNLive` repository.
 
 ## Download
 
-Use the latest GitHub release and download `STVNLive.apk`.
+Open the latest release and download `STVNLive.apk`:
+
+https://github.com/jp2creation/STVNLive.apk/releases/latest
 
 ## Update Channel
 
